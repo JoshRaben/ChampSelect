@@ -32,6 +32,10 @@
                 "hpperlevel": 85
             },
             "name": "Wukong",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -70,6 +74,10 @@
                 "hpperlevel": 85
             },
             "name": "Jax",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -108,6 +116,10 @@
                 "hpperlevel": 80
             },
             "name": "Fiddlesticks",
+            "lane": [
+                "Support",
+                "Jungle"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -146,6 +158,10 @@
                 "hpperlevel": 89
             },
             "name": "Shaco",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin"
             ],
@@ -183,6 +199,10 @@
                 "hpperlevel": 85
             },
             "name": "Warwick",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -221,6 +241,9 @@
                 "hpperlevel": 80
             },
             "name": "Xayah",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -258,6 +281,10 @@
                 "hpperlevel": 85
             },
             "name": "Nidalee",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -296,6 +323,10 @@
                 "hpperlevel": 79
             },
             "name": "Zyra",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -334,6 +365,9 @@
                 "hpperlevel": 70
             },
             "name": "Kled",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -372,6 +406,10 @@
                 "hpperlevel": 88
             },
             "name": "Brand",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -409,6 +447,9 @@
                 "hpperlevel": 86
             },
             "name": "Rammus",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -447,6 +488,9 @@
                 "hpperlevel": 95
             },
             "name": "Illaoi",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -485,6 +529,10 @@
                 "hpperlevel": 87
             },
             "name": "Corki",
+            "lane": [
+                "Mid",
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -522,6 +570,9 @@
                 "hpperlevel": 87
             },
             "name": "Braum",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Tank"
@@ -560,6 +611,9 @@
                 "hpperlevel": 100
             },
             "name": "Darius",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -598,6 +652,10 @@
                 "hpperlevel": 98
             },
             "name": "Tryndamere",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -636,6 +694,9 @@
                 "hpperlevel": 85
             },
             "name": "Miss Fortune",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -673,6 +734,9 @@
                 "hpperlevel": 100
             },
             "name": "Yorick",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -711,6 +775,10 @@
                 "hpperlevel": 92
             },
             "name": "Xerath",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -749,6 +817,9 @@
                 "hpperlevel": 82
             },
             "name": "Sivir",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -786,6 +857,10 @@
                 "hpperlevel": 86
             },
             "name": "Riven",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -824,6 +899,9 @@
                 "hpperlevel": 91
             },
             "name": "Orianna",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -862,6 +940,9 @@
                 "hpperlevel": 82
             },
             "name": "Gangplank",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -899,6 +980,9 @@
                 "hpperlevel": 90
             },
             "name": "Malphite",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -937,6 +1021,11 @@
                 "hpperlevel": 90
             },
             "name": "Poppy",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -975,6 +1064,9 @@
                 "hpperlevel": 87
             },
             "name": "Lissandra",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1012,6 +1104,10 @@
                 "hpperlevel": 95
             },
             "name": "Jayce",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Marksman"
@@ -1050,6 +1146,10 @@
                 "hpperlevel": 90
             },
             "name": "Nunu",
+            "lane": [
+                "Support",
+                "Jungle"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -1088,6 +1188,10 @@
                 "hpperlevel": 96
             },
             "name": "Trundle",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1126,6 +1230,9 @@
                 "hpperlevel": 87
             },
             "name": "Karthus",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1163,6 +1270,9 @@
                 "hpperlevel": 84
             },
             "name": "Graves",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1200,6 +1310,10 @@
                 "hpperlevel": 92
             },
             "name": "Zoe",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -1238,6 +1352,9 @@
                 "hpperlevel": 65
             },
             "name": "Gnar",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1276,6 +1393,10 @@
                 "hpperlevel": 91
             },
             "name": "Lux",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -1314,6 +1435,10 @@
                 "hpperlevel": 95
             },
             "name": "Shyvana",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1352,6 +1477,9 @@
                 "hpperlevel": 87
             },
             "name": "Renekton",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1390,6 +1518,10 @@
                 "hpperlevel": 85
             },
             "name": "Fiora",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -1428,6 +1560,9 @@
                 "hpperlevel": 82
             },
             "name": "Jinx",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1465,6 +1600,9 @@
                 "hpperlevel": 83
             },
             "name": "Kalista",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1502,6 +1640,9 @@
                 "hpperlevel": 98
             },
             "name": "Fizz",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -1540,6 +1681,9 @@
                 "hpperlevel": 90
             },
             "name": "Kassadin",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -1578,6 +1722,9 @@
                 "hpperlevel": 77
             },
             "name": "Sona",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -1616,6 +1763,9 @@
                 "hpperlevel": 85
             },
             "name": "Irelia",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -1654,6 +1804,9 @@
                 "hpperlevel": 90
             },
             "name": "Viktor",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1691,6 +1844,9 @@
                 "hpperlevel": 85
             },
             "name": "Rakan",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support"
             ],
@@ -1728,6 +1884,9 @@
                 "hpperlevel": 85
             },
             "name": "Kindred",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1765,6 +1924,9 @@
                 "hpperlevel": 87
             },
             "name": "Cassiopeia",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1802,6 +1964,10 @@
                 "hpperlevel": 95
             },
             "name": "Maokai",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -1840,6 +2006,10 @@
                 "hpperlevel": 90
             },
             "name": "Ornn",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -1878,6 +2048,9 @@
                 "hpperlevel": 93
             },
             "name": "Thresh",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -1916,6 +2089,11 @@
                 "hpperlevel": 105
             },
             "name": "Kayle",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Support"
@@ -1954,6 +2132,10 @@
                 "hpperlevel": 90
             },
             "name": "Hecarim",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1992,6 +2174,10 @@
                 "hpperlevel": 85
             },
             "name": "Kha'Zix",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -2030,6 +2216,10 @@
                 "hpperlevel": 93
             },
             "name": "Olaf",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2068,6 +2258,9 @@
                 "hpperlevel": 92
             },
             "name": "Ziggs",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2105,6 +2298,9 @@
                 "hpperlevel": 90
             },
             "name": "Syndra",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -2143,6 +2339,10 @@
                 "hpperlevel": 89
             },
             "name": "Dr. Mundo",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2181,6 +2381,10 @@
                 "hpperlevel": 95
             },
             "name": "Karma",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -2219,6 +2423,10 @@
                 "hpperlevel": 88
             },
             "name": "Annie",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2256,6 +2464,10 @@
                 "hpperlevel": 90
             },
             "name": "Akali",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Assassin"
             ],
@@ -2293,6 +2505,10 @@
                 "hpperlevel": 86
             },
             "name": "Volibear",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2331,6 +2547,10 @@
                 "hpperlevel": 87
             },
             "name": "Yasuo",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -2369,6 +2589,9 @@
                 "hpperlevel": 84
             },
             "name": "Kennen",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Mage",
                 "Marksman"
@@ -2407,6 +2630,10 @@
                 "hpperlevel": 90
             },
             "name": "Rengar",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -2445,6 +2672,10 @@
                 "hpperlevel": 98
             },
             "name": "Ryze",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -2483,6 +2714,9 @@
                 "hpperlevel": 85
             },
             "name": "Shen",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank"
             ],
@@ -2520,6 +2754,9 @@
                 "hpperlevel": 95
             },
             "name": "Zac",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -2558,6 +2795,9 @@
                 "hpperlevel": 95
             },
             "name": "Talon",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -2596,6 +2836,10 @@
                 "hpperlevel": 90
             },
             "name": "Swain",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -2634,6 +2878,9 @@
                 "hpperlevel": 89
             },
             "name": "Bard",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -2672,6 +2919,11 @@
                 "hpperlevel": 73
             },
             "name": "Sion",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -2710,6 +2962,10 @@
                 "hpperlevel": 83
             },
             "name": "Vayne",
+            "lane": [
+                "Top",
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -2748,6 +3004,10 @@
                 "hpperlevel": 90
             },
             "name": "Nasus",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2786,6 +3046,10 @@
                 "hpperlevel": 85
             },
             "name": "Kayn",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -2824,6 +3088,10 @@
                 "hpperlevel": 94
             },
             "name": "Twisted Fate",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2861,6 +3129,10 @@
                 "hpperlevel": 80
             },
             "name": "Cho'Gath",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -2899,6 +3171,10 @@
                 "hpperlevel": 99
             },
             "name": "Udyr",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2937,6 +3213,11 @@
                 "hpperlevel": 80
             },
             "name": "Lucian",
+            "lane": [
+                "Top",
+                "ADC",
+                "Mid"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -2974,6 +3255,9 @@
                 "hpperlevel": 95
             },
             "name": "Ivern",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -3012,6 +3296,9 @@
                 "hpperlevel": 87
             },
             "name": "Leona",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Support"
@@ -3050,6 +3337,9 @@
                 "hpperlevel": 85
             },
             "name": "Caitlyn",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -3087,6 +3377,10 @@
                 "hpperlevel": 88
             },
             "name": "Sejuani",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3125,6 +3419,10 @@
                 "hpperlevel": 85
             },
             "name": "Nocturne",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -3163,6 +3461,9 @@
                 "hpperlevel": 82
             },
             "name": "Zilean",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -3201,6 +3502,9 @@
                 "hpperlevel": 92
             },
             "name": "Azir",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Marksman"
@@ -3239,6 +3543,9 @@
                 "hpperlevel": 85
             },
             "name": "Rumble",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -3277,6 +3584,10 @@
                 "hpperlevel": 90
             },
             "name": "Morgana",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3315,6 +3626,10 @@
                 "hpperlevel": 90
             },
             "name": "Taliyah",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3353,6 +3668,10 @@
                 "hpperlevel": 90
             },
             "name": "Teemo",
+            "lane": [
+                "Top",
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -3391,6 +3710,9 @@
                 "hpperlevel": 88
             },
             "name": "Urgot",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Marksman"
@@ -3429,6 +3751,9 @@
                 "hpperlevel": 84
             },
             "name": "Amumu",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -3467,6 +3792,10 @@
                 "hpperlevel": 112
             },
             "name": "Galio",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -3505,6 +3834,10 @@
                 "hpperlevel": 87
             },
             "name": "Heimerdinger",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3543,6 +3876,9 @@
                 "hpperlevel": 82
             },
             "name": "Anivia",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3581,6 +3917,9 @@
                 "hpperlevel": 79
             },
             "name": "Ashe",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Support"
@@ -3619,6 +3958,9 @@
                 "hpperlevel": 88
             },
             "name": "Vel'Koz",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -3656,6 +3998,9 @@
                 "hpperlevel": 85
             },
             "name": "Singed",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3694,6 +4039,9 @@
                 "hpperlevel": 90
             },
             "name": "Skarner",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -3732,6 +4080,9 @@
                 "hpperlevel": 82
             },
             "name": "Varus",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
@@ -3770,6 +4121,9 @@
                 "hpperlevel": 81
             },
             "name": "Twitch",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -3808,6 +4162,9 @@
                 "hpperlevel": 84.25
             },
             "name": "Garen",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -3846,6 +4203,9 @@
                 "hpperlevel": 95
             },
             "name": "Blitzcrank",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3884,6 +4244,10 @@
                 "hpperlevel": 92
             },
             "name": "Master Yi",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -3922,6 +4286,9 @@
                 "hpperlevel": 85
             },
             "name": "Elise",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -3960,6 +4327,9 @@
                 "hpperlevel": 106
             },
             "name": "Alistar",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Support"
@@ -3998,6 +4368,9 @@
                 "hpperlevel": 94
             },
             "name": "Katarina",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -4036,6 +4409,11 @@
                 "hpperlevel": 85
             },
             "name": "Ekko",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -4074,6 +4452,9 @@
                 "hpperlevel": 78
             },
             "name": "Mordekaiser",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -4111,6 +4492,10 @@
                 "hpperlevel": 74
             },
             "name": "Lulu",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -4149,6 +4534,9 @@
                 "hpperlevel": 85
             },
             "name": "Camille",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4187,6 +4575,10 @@
                 "hpperlevel": 85
             },
             "name": "Aatrox",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4225,6 +4617,9 @@
                 "hpperlevel": 82
             },
             "name": "Draven",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -4262,6 +4657,10 @@
                 "hpperlevel": 95
             },
             "name": "Tahm Kench",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Tank"
@@ -4300,6 +4699,9 @@
                 "hpperlevel": 87
             },
             "name": "Pantheon",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -4338,6 +4740,10 @@
                 "hpperlevel": 92
             },
             "name": "Xin Zhao",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -4376,6 +4782,9 @@
                 "hpperlevel": 92
             },
             "name": "Aurelion Sol",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -4414,6 +4823,10 @@
                 "hpperlevel": 85
             },
             "name": "Lee Sin",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -4452,6 +4865,9 @@
                 "hpperlevel": 90
             },
             "name": "Taric",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -4490,6 +4906,9 @@
                 "hpperlevel": 87
             },
             "name": "Malzahar",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -4528,6 +4947,10 @@
                 "hpperlevel": 80
             },
             "name": "Kai'Sa",
+            "lane": [
+                "ADC",
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -4565,6 +4988,11 @@
                 "hpperlevel": 95
             },
             "name": "Diana",
+            "lane": [
+                "Top",
+                "Mid",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -4603,6 +5031,9 @@
                 "hpperlevel": 82
             },
             "name": "Tristana",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -4641,6 +5072,9 @@
                 "hpperlevel": 85
             },
             "name": "Rek'Sai",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -4678,6 +5112,10 @@
                 "hpperlevel": 96
             },
             "name": "Vladimir",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Tank"
@@ -4716,6 +5154,10 @@
                 "hpperlevel": 90
             },
             "name": "Jarvan IV",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -4754,6 +5196,9 @@
                 "hpperlevel": 74
             },
             "name": "Nami",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -4792,6 +5237,9 @@
                 "hpperlevel": 85
             },
             "name": "Jhin",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -4830,6 +5278,9 @@
                 "hpperlevel": 78
             },
             "name": "Soraka",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -4868,6 +5319,10 @@
                 "hpperlevel": 94
             },
             "name": "Veigar",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -4905,6 +5360,9 @@
                 "hpperlevel": 70
             },
             "name": "Janna",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -4943,6 +5401,10 @@
                 "hpperlevel": 86
             },
             "name": "Nautilus",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -4981,6 +5443,9 @@
                 "hpperlevel": 84
             },
             "name": "Evelynn",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -5019,6 +5484,10 @@
                 "hpperlevel": 89
             },
             "name": "Gragas",
+            "lane": [
+                "Mid",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -5057,6 +5526,10 @@
                 "hpperlevel": 85
             },
             "name": "Zed",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -5095,6 +5568,9 @@
                 "hpperlevel": 85
             },
             "name": "Vi",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -5133,6 +5609,9 @@
                 "hpperlevel": 82
             },
             "name": "Kog'Maw",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
@@ -5171,6 +5650,9 @@
                 "hpperlevel": 92
             },
             "name": "Ahri",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -5209,6 +5691,9 @@
                 "hpperlevel": 85
             },
             "name": "Quinn",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Marksman",
                 "Fighter"
@@ -5247,6 +5732,9 @@
                 "hpperlevel": 92
             },
             "name": "LeBlanc",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -5285,6 +5773,10 @@
                 "hpperlevel": 80
             },
             "name": "Ezreal",
+            "lane": [
+                "ADC",
+                "Jungle"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
