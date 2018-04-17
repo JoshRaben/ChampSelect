@@ -38,6 +38,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Wukong",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -83,6 +88,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Jax",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -127,6 +137,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Fiddlesticks",
+            "price": "1350",
+            "lane": [
+                "Support",
+                "Jungle"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -173,6 +188,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Shaco",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin"
             ],
@@ -217,6 +237,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Warwick",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -262,6 +287,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Xayah",
+            "price": "6300",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -306,6 +335,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Nidalee",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -351,6 +385,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Zyra",
+            "price": "4800",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -396,6 +435,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Kled",
+            "price": "6300",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -441,6 +484,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Brand",
+            "price": "4800",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -484,6 +532,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Rammus",
+            "price": "1350",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -529,6 +581,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Illaoi",
+            "price": "6300",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -575,6 +631,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Corki",
+            "price": "3150",
+            "lane": [
+                "Mid",
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -619,6 +680,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Braum",
+            "price": "6300",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Tank"
@@ -664,6 +729,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Darius",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -709,6 +778,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Tryndamere",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -754,6 +828,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Miss Fortune",
+            "price": "3150",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -798,6 +876,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Yorick",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -842,6 +924,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Xerath",
+            "price": "4800",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -888,6 +975,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Sivir",
+            "price": "450",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -932,6 +1023,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Riven",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -977,6 +1073,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Orianna",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -1021,6 +1121,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Gangplank",
+            "price": "3150",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -1065,6 +1169,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Malphite",
+            "price": "1350",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -1109,6 +1217,12 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Poppy",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -1154,6 +1268,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Lissandra",
+            "price": "6300",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1198,6 +1316,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Jayce",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Marksman"
@@ -1242,6 +1365,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Nunu",
+            "price": "450",
+            "lane": [
+                "Support",
+                "Jungle"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -1288,6 +1416,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Trundle",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1332,6 +1465,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Karthus",
+            "price": "3150",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -1376,6 +1513,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Graves",
+            "price": "4800",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1420,6 +1561,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Zoe",
+            "price": "6300",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -1465,6 +1611,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Gnar",
+            "price": "6300",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1510,6 +1660,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Lux",
+            "price": "3150",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -1555,6 +1710,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Shyvana",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1599,6 +1759,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Renekton",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -1644,6 +1808,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Fiora",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -1688,6 +1857,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Jinx",
+            "price": "6300",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1732,6 +1905,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Kalista",
+            "price": "6300",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -1776,6 +1953,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Fizz",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -1821,6 +2002,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Kassadin",
+            "price": "3150",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -1866,6 +2051,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Sona",
+            "price": "3150",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -1911,6 +2100,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Irelia",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -1956,6 +2149,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Viktor",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2000,6 +2197,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Rakan",
+            "price": "6300",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support"
             ],
@@ -2044,6 +2245,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Kindred",
+            "price": "6300",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -2088,6 +2293,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Cassiopeia",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2132,6 +2341,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Maokai",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -2176,6 +2390,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Ornn",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -2220,6 +2439,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Thresh",
+            "price": "6300",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -2265,6 +2488,12 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Kayle",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Support"
@@ -2309,6 +2538,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Hecarim",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2353,6 +2587,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Kha'Zix",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -2398,6 +2637,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Olaf",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2443,6 +2687,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Ziggs",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2486,6 +2734,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Syndra",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -2530,6 +2782,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Dr. Mundo",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2575,6 +2832,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Karma",
+            "price": "3150",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -2620,6 +2882,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Annie",
+            "price": "450",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -2664,6 +2931,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Akali",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Assassin"
             ],
@@ -2708,6 +2980,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Volibear",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -2753,6 +3030,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Yasuo",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -2799,6 +3081,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Kennen",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Mage",
                 "Marksman"
@@ -2844,6 +3130,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Rengar",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -2890,6 +3181,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Ryze",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -2934,6 +3230,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Shen",
+            "price": "3150",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank"
             ],
@@ -2978,6 +3278,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Zac",
+            "price": "6300",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3023,6 +3327,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Talon",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -3068,6 +3376,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Swain",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -3113,6 +3426,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Bard",
+            "price": "6300",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -3158,6 +3475,12 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Sion",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3203,6 +3526,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Vayne",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -3248,6 +3576,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Nasus",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -3292,6 +3625,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Kayn",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -3337,6 +3675,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Twisted Fate",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -3381,6 +3724,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Cho'Gath",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -3426,6 +3774,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Udyr",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -3471,6 +3824,12 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Lucian",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "ADC",
+                "Mid"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -3514,6 +3873,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Ivern",
+            "price": "6300",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -3558,6 +3921,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Leona",
+            "price": "4800",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Support"
@@ -3603,6 +3970,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Caitlyn",
+            "price": "4800",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -3646,6 +4017,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Sejuani",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -3691,6 +4067,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Nocturne",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -3736,6 +4117,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Zilean",
+            "price": "1350",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -3781,6 +4166,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Azir",
+            "price": "6300",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Marksman"
@@ -3826,6 +4215,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Rumble",
+            "price": "4800",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -3870,6 +4263,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Morgana",
+            "price": "1350",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3915,6 +4313,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Taliyah",
+            "price": "6300",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -3960,6 +4363,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Teemo",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -4004,6 +4412,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Urgot",
+            "price": "3150",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Marksman"
@@ -4048,7 +4460,12 @@
             ],
             "attackstyle": "AP",
             "aggressionlevel": "MED",
+
             "name": "Amumu",
+            "price": "450",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -4094,6 +4511,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Galio",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Tank",
                 "Mage"
@@ -4139,6 +4561,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Heimerdinger",
+            "price": "3150",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -4184,6 +4611,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Anivia",
+            "price": "3150",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Support"
@@ -4229,6 +4660,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Ashe",
+            "price": "450",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Support"
@@ -4274,6 +4709,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Vel'Koz",
+            "price": "6300",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -4318,6 +4757,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Singed",
+            "price": "450",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -4363,6 +4806,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Skarner",
+            "price": "4800",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4408,6 +4855,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Varus",
+            "price": "4800",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
@@ -4453,6 +4904,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Twitch",
+            "price": "3150",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -4498,6 +4953,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Garen",
+            "price": "450",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4543,6 +5002,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Blitzcrank",
+            "price": "3150",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -4588,6 +5051,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Master Yi",
+            "price": "450",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -4633,6 +5101,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Elise",
+            "price": "4800",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -4678,6 +5150,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Alistar",
+            "price": "1350",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Support"
@@ -4723,6 +5199,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Katarina",
+            "price": "3150",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -4768,6 +5248,12 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Ekko",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Jungle",
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -4813,6 +5299,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Mordekaiser",
+            "price": "1350",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -4857,6 +5347,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Lulu",
+            "price": "4800",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -4902,6 +5397,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Camille",
+            "price": "6300",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4947,6 +5446,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Aatrox",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Tank"
@@ -4992,6 +5496,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Draven",
+            "price": "4800",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -5036,6 +5544,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Tahm Kench",
+            "price": "6300",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Tank"
@@ -5081,6 +5594,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Pantheon",
+            "price": "3150",
+            "lane": [
+                "Top"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -5126,6 +5643,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Xin Zhao",
+            "price": "1350",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -5171,6 +5693,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Aurelion Sol",
+            "price": "6300",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Fighter"
@@ -5216,6 +5742,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Lee Sin",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -5260,6 +5791,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Taric",
+            "price": "1350",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Fighter"
@@ -5305,6 +5840,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Malzahar",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -5350,6 +5889,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Kai'Sa",
+            "price": "6300",
+            "lane": [
+                "ADC",
+                "Jungle"
+            ],
             "tags": [
                 "Marksman"
             ],
@@ -5394,6 +5938,12 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Diana",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Mid",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -5440,6 +5990,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Tristana",
+            "price": "1350",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -5485,6 +6039,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Rek'Sai",
+            "price": "6300",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter"
             ],
@@ -5530,6 +6088,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Vladimir",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Tank"
@@ -5575,6 +6138,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Jarvan IV",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Jungle"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -5620,6 +6188,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Nami",
+            "price": "4800",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -5665,6 +6237,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Jhin",
+            "price": "6300",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Assassin"
@@ -5709,6 +6285,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Soraka",
+            "price": "450",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -5754,6 +6334,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Veigar",
+            "price": "1350",
+            "lane": [
+                "Mid",
+                "Support"
+            ],
             "tags": [
                 "Mage"
             ],
@@ -5798,6 +6383,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "LOW",
             "name": "Janna",
+            "price": "1350",
+            "lane": [
+                "Support"
+            ],
             "tags": [
                 "Support",
                 "Mage"
@@ -5843,6 +6432,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Nautilus",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Support"
+            ],
             "tags": [
                 "Tank",
                 "Fighter"
@@ -5889,6 +6483,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Evelynn",
+            "price": "1350",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -5934,6 +6532,11 @@
             "attackstyle": "AP",
             "aggressionlevel": "MED",
             "name": "Gragas",
+            "price": "3150",
+            "lane": [
+                "Mid",
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Mage"
@@ -5979,6 +6582,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Zed",
+            "price": "4800",
+            "lane": [
+                "Top",
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Fighter"
@@ -6024,6 +6632,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "HIGH",
             "name": "Vi",
+            "price": "6300",
+            "lane": [
+                "Jungle"
+            ],
             "tags": [
                 "Fighter",
                 "Assassin"
@@ -6069,6 +6681,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Kog'Maw",
+            "price": "4800",
+            "lane": [
+                "ADC"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
@@ -6114,6 +6730,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "Ahri",
+            "price": "4800",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Mage",
                 "Assassin"
@@ -6159,6 +6779,10 @@
             "attackstyle": "AD",
             "aggressionlevel": "MED",
             "name": "Quinn",
+            "price": "6300",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Marksman",
                 "Fighter"
@@ -6204,6 +6828,10 @@
             "attackstyle": "AP",
             "aggressionlevel": "HIGH",
             "name": "LeBlanc",
+            "price": "3150",
+            "lane": [
+                "Mid"
+            ],
             "tags": [
                 "Assassin",
                 "Mage"
@@ -6249,6 +6877,11 @@
             "attackstyle": "AD",
             "aggressionlevel": "LOW",
             "name": "Ezreal",
+            "price": "4800",
+            "lane": [
+                "ADC",
+                "Jungle"
+            ],
             "tags": [
                 "Marksman",
                 "Mage"
