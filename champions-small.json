@@ -31,6 +31,12 @@
                 "hpregen": 6,
                 "hpperlevel": 85
             },
+            "playstyle": [
+                "ENGAGE",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Wukong",
             "tags": [
                 "Fighter",
@@ -69,6 +75,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+             "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                 "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Jax",
             "tags": [
                 "Fighter",
@@ -107,6 +120,12 @@
                 "hpregen": 5.5,
                 "hpperlevel": 80
             },
+             "playstyle": [
+                "ENGAGE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Fiddlesticks",
             "tags": [
                 "Mage",
@@ -145,6 +164,14 @@
                 "hpregen": 8.5,
                 "hpperlevel": 89
             },
+             "playstyle": [
+                "BURST",
+                "SPLITPUSH",
+                 "MOBILE",
+                 "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Shaco",
             "tags": [
                 "Assassin"
@@ -182,6 +209,13 @@
                 "hpregen": 4,
                 "hpperlevel": 85
             },
+             "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                 "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Warwick",
             "tags": [
                 "Fighter",
@@ -220,6 +254,13 @@
                 "hpregen": 6,
                 "hpperlevel": 80
             },
+             "playstyle": [
+                "PEEL",
+                "WAVECLEAR",
+                 "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Xayah",
             "tags": [
                 "Marksman"
@@ -257,6 +298,13 @@
                 "hpregen": 6,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "POKE",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Nidalee",
             "tags": [
                 "Assassin",
@@ -295,6 +343,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 79
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Zyra",
             "tags": [
                 "Mage",
@@ -333,6 +388,13 @@
                 "hpregen": 6,
                 "hpperlevel": 70
             },
+           "playstyle": [
+                "ENGAGE",
+                "SPLITPUSH",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Kled",
             "tags": [
                 "Fighter",
@@ -371,6 +433,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 88
             },
+           "playstyle": [
+                "BURST",
+                "WAVECLEAR",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Brand",
             "tags": [
                 "Mage"
@@ -408,6 +477,12 @@
                 "hpregen": 8,
                 "hpperlevel": 86
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Rammus",
             "tags": [
                 "Tank",
@@ -446,6 +521,13 @@
                 "hpregen": 9.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "PEEL",
+                "BURST",
+                "POKE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Illaoi",
             "tags": [
                 "Fighter",
@@ -484,6 +566,14 @@
                 "hpregen": 5.5,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR",
+                "MOBILE",
+                "SIEGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Corki",
             "tags": [
                 "Marksman"
@@ -521,6 +611,13 @@
                 "hpregen": 8,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Braum",
             "tags": [
                 "Support",
@@ -559,6 +656,13 @@
                 "hpregen": 10,
                 "hpperlevel": 100
             },
+           "playstyle": [
+                "BURST",
+                "SPLITPUSH",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Darius",
             "tags": [
                 "Fighter",
@@ -597,6 +701,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 98
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Tryndamere",
             "tags": [
                 "Fighter",
@@ -635,6 +746,13 @@
                 "hpregen": 6,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "PEEL",
+                "POKE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Miss Fortune",
             "tags": [
                 "Marksman"
@@ -672,6 +790,13 @@
                 "hpregen": 8,
                 "hpperlevel": 100
             },
+           "playstyle": [
+                "SIEGE",
+                "SPLITPUSH",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Yorick",
             "tags": [
                 "Fighter",
@@ -710,6 +835,12 @@
                 "hpregen": 5.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Xerath",
             "tags": [
                 "Mage",
@@ -748,6 +879,14 @@
                 "hpregen": 5,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "WAVECLEAR",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Sivir",
             "tags": [
                 "Marksman"
@@ -785,6 +924,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 86
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Riven",
             "tags": [
                 "Fighter",
@@ -823,6 +969,13 @@
                 "hpregen": 7,
                 "hpperlevel": 91
             },
+           "playstyle": [
+                "ENGAGE",
+                "WAVECLEAR",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Orianna",
             "tags": [
                 "Mage",
@@ -861,6 +1014,12 @@
                 "hpregen": 6,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Gangplank",
             "tags": [
                 "Fighter"
@@ -898,6 +1057,13 @@
                 "hpregen": 7,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Malphite",
             "tags": [
                 "Tank",
@@ -936,6 +1102,12 @@
                 "hpregen": 8,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "ENGAGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Poppy",
             "tags": [
                 "Tank",
@@ -974,6 +1146,13 @@
                 "hpregen": 7,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "WAVECLEAR",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Lissandra",
             "tags": [
                 "Mage"
@@ -1011,6 +1190,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "POKE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Jayce",
             "tags": [
                 "Fighter",
@@ -1049,6 +1235,12 @@
                 "hpregen": 5,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Nunu",
             "tags": [
                 "Support",
@@ -1087,6 +1279,14 @@
                 "hpregen": 6,
                 "hpperlevel": 96
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Trundle",
             "tags": [
                 "Fighter",
@@ -1125,6 +1325,12 @@
                 "hpregen": 6.5,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Karthus",
             "tags": [
                 "Mage"
@@ -1162,6 +1368,13 @@
                 "hpregen": 8,
                 "hpperlevel": 84
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Graves",
             "tags": [
                 "Marksman"
@@ -1199,6 +1412,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Zoe",
             "tags": [
                 "Mage",
@@ -1237,6 +1457,13 @@
                 "hpregen": 4.5,
                 "hpperlevel": 65
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Gnar",
             "tags": [
                 "Fighter",
@@ -1275,6 +1502,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 91
             },
+           "playstyle": [
+                "POKE",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Lux",
             "tags": [
                 "Mage",
@@ -1313,6 +1547,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Shyvana",
             "tags": [
                 "Fighter",
@@ -1351,6 +1592,12 @@
                 "hpregen": 8,
                 "hpperlevel": 87
             },
+             "playstyle": [
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Renekton",
             "tags": [
                 "Fighter",
@@ -1389,6 +1636,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Fiora",
             "tags": [
                 "Fighter",
@@ -1427,6 +1681,12 @@
                 "hpregen": 6,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "PEEL",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Jinx",
             "tags": [
                 "Marksman"
@@ -1464,6 +1724,13 @@
                 "hpregen": 6,
                 "hpperlevel": 83
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Kalista",
             "tags": [
                 "Marksman"
@@ -1501,6 +1768,13 @@
                 "hpregen": 8,
                 "hpperlevel": 98
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Fizz",
             "tags": [
                 "Assassin",
@@ -1539,6 +1813,13 @@
                 "hpregen": 8,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Kassadin",
             "tags": [
                 "Assassin",
@@ -1577,6 +1858,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 77
             },
+           "playstyle": [
+                "PEEL",
+                "ENGAGE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Sona",
             "tags": [
                 "Support",
@@ -1615,6 +1903,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Irelia",
             "tags": [
                 "Fighter",
@@ -1653,6 +1948,13 @@
                 "hpregen": 8,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Viktor",
             "tags": [
                 "Mage"
@@ -1690,6 +1992,13 @@
                 "hpregen": 5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Rakan",
             "tags": [
                 "Support"
@@ -1727,6 +2036,13 @@
                 "hpregen": 7,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Kindred",
             "tags": [
                 "Marksman"
@@ -1764,6 +2080,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Cassiopeia",
             "tags": [
                 "Mage"
@@ -1801,6 +2124,13 @@
                 "hpregen": 5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Maokai",
             "tags": [
                 "Tank",
@@ -1839,6 +2169,12 @@
                 "hpregen": 9,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Ornn",
             "tags": [
                 "Tank",
@@ -1877,6 +2213,12 @@
                 "hpregen": 7,
                 "hpperlevel": 93
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Thresh",
             "tags": [
                 "Support",
@@ -1915,6 +2257,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 105
             },
+           "playstyle": [
+                "PEEL",
+                "BURST",
+                "SIEGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Kayle",
             "tags": [
                 "Fighter",
@@ -1953,6 +2302,12 @@
                 "hpregen": 7,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Hecarim",
             "tags": [
                 "Fighter",
@@ -1991,6 +2346,12 @@
                 "hpregen": 7.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "BURST",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Kha'Zix",
             "tags": [
                 "Assassin",
@@ -2029,6 +2390,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 93
             },
+           "playstyle": [
+                "PEEL",
+                "POKE",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Olaf",
             "tags": [
                 "Fighter",
@@ -2067,6 +2435,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR",
+                "SIEGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Ziggs",
             "tags": [
                 "Mage"
@@ -2104,6 +2479,12 @@
                 "hpregen": 6.5,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Syndra",
             "tags": [
                 "Mage",
@@ -2142,6 +2523,12 @@
                 "hpregen": 8,
                 "hpperlevel": 89
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Dr. Mundo",
             "tags": [
                 "Fighter",
@@ -2180,6 +2567,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "POKE",
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Karma",
             "tags": [
                 "Mage",
@@ -2218,6 +2612,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 88
             },
+           "playstyle": [
+                "BURST",
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Annie",
             "tags": [
                 "Mage"
@@ -2255,6 +2656,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "BURST",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Akali",
             "tags": [
                 "Assassin"
@@ -2292,6 +2700,13 @@
                 "hpregen": 8,
                 "hpperlevel": 86
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Volibear",
             "tags": [
                 "Fighter",
@@ -2330,6 +2745,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Yasuo",
             "tags": [
                 "Fighter",
@@ -2368,6 +2790,14 @@
                 "hpregen": 5.5,
                 "hpperlevel": 84
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "WAVECLEAR",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Kennen",
             "tags": [
                 "Mage",
@@ -2406,6 +2836,13 @@
                 "hpregen": 7,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Rengar",
             "tags": [
                 "Assassin",
@@ -2444,6 +2881,14 @@
                 "hpregen": 7,
                 "hpperlevel": 98
             },
+           "playstyle": [
+                "POKE",
+                "PEEL",
+                "WAVECLEAR",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Ryze",
             "tags": [
                 "Mage",
@@ -2482,6 +2927,12 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Shen",
             "tags": [
                 "Tank"
@@ -2519,6 +2970,13 @@
                 "hpregen": 8,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Zac",
             "tags": [
                 "Tank",
@@ -2557,6 +3015,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Talon",
             "tags": [
                 "Assassin",
@@ -2595,6 +3060,13 @@
                 "hpregen": 7,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Swain",
             "tags": [
                 "Mage",
@@ -2633,6 +3105,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 89
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Bard",
             "tags": [
                 "Support",
@@ -2671,6 +3150,13 @@
                 "hpregen": 10,
                 "hpperlevel": 73
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "POKE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Sion",
             "tags": [
                 "Tank",
@@ -2709,6 +3195,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 83
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Vayne",
             "tags": [
                 "Marksman",
@@ -2747,6 +3240,13 @@
                 "hpregen": 9,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Nasus",
             "tags": [
                 "Fighter",
@@ -2785,6 +3285,12 @@
                 "hpregen": 8,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Kayn",
             "tags": [
                 "Fighter",
@@ -2823,6 +3329,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 94
             },
+           "playstyle": [
+                "POKE",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Twisted Fate",
             "tags": [
                 "Mage"
@@ -2860,6 +3373,13 @@
                 "hpregen": 9,
                 "hpperlevel": 80
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Cho'Gath",
             "tags": [
                 "Tank",
@@ -2898,6 +3418,13 @@
                 "hpregen": 6,
                 "hpperlevel": 99
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "ENGAGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Udyr",
             "tags": [
                 "Fighter",
@@ -2936,6 +3463,13 @@
                 "hpregen": 6,
                 "hpperlevel": 80
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Lucian",
             "tags": [
                 "Marksman"
@@ -2973,6 +3507,12 @@
                 "hpregen": 7,
                 "hpperlevel": 95
             },
+             "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Ivern",
             "tags": [
                 "Support",
@@ -3011,6 +3551,12 @@
                 "hpregen": 8.5,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Leona",
             "tags": [
                 "Tank",
@@ -3049,6 +3595,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Caitlyn",
             "tags": [
                 "Marksman"
@@ -3086,6 +3639,12 @@
                 "hpregen": 8.5,
                 "hpperlevel": 88
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Sejuani",
             "tags": [
                 "Tank",
@@ -3124,6 +3683,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Nocturne",
             "tags": [
                 "Assassin",
@@ -3162,6 +3728,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Zilean",
             "tags": [
                 "Support",
@@ -3200,6 +3773,13 @@
                 "hpregen": 7,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "MOBILE",
+                "ENGAGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Azir",
             "tags": [
                 "Mage",
@@ -3238,6 +3818,13 @@
                 "hpregen": 8,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "POKE",
+                "WAVECLEAR",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Rumble",
             "tags": [
                 "Fighter",
@@ -3276,6 +3863,12 @@
                 "hpregen": 5.5,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Morgana",
             "tags": [
                 "Mage",
@@ -3314,6 +3907,13 @@
                 "hpregen": 7,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Taliyah",
             "tags": [
                 "Mage",
@@ -3352,6 +3952,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "PEEL",
+                "SPLITPUSH",
+                "POKE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Teemo",
             "tags": [
                 "Marksman",
@@ -3390,6 +3997,12 @@
                 "hpregen": 7.5,
                 "hpperlevel": 88
             },
+           "playstyle": [
+                "POKE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Urgot",
             "tags": [
                 "Fighter",
@@ -3428,6 +4041,13 @@
                 "hpregen": 9,
                 "hpperlevel": 84
             },
+           "playstyle": [
+                "ENGAGE",
+                "WAVECLEAR",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Amumu",
             "tags": [
                 "Tank",
@@ -3466,6 +4086,13 @@
                 "hpregen": 8,
                 "hpperlevel": 112
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Galio",
             "tags": [
                 "Tank",
@@ -3504,6 +4131,13 @@
                 "hpregen": 7,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "PEEL",
+                "POKE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Heimerdinger",
             "tags": [
                 "Mage",
@@ -3542,6 +4176,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "POKE",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Anivia",
             "tags": [
                 "Mage",
@@ -3580,6 +4221,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 79
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR",
+                "ENGAGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Ashe",
             "tags": [
                 "Marksman",
@@ -3618,6 +4266,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 88
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "POKE",
+                "SIEGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Vel'Koz",
             "tags": [
                 "Mage"
@@ -3655,6 +4310,13 @@
                 "hpregen": 8,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "ENGAGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Singed",
             "tags": [
                 "Tank",
@@ -3693,6 +4355,13 @@
                 "hpregen": 9,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Skarner",
             "tags": [
                 "Fighter",
@@ -3731,6 +4400,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Varus",
             "tags": [
                 "Marksman",
@@ -3769,6 +4445,13 @@
                 "hpregen": 6,
                 "hpperlevel": 81
             },
+           "playstyle": [
+                "PEEL",
+                "BURST",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Twitch",
             "tags": [
                 "Marksman",
@@ -3807,6 +4490,13 @@
                 "hpregen": 8,
                 "hpperlevel": 84.25
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Garen",
             "tags": [
                 "Fighter",
@@ -3845,6 +4535,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "MOBILE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Blitzcrank",
             "tags": [
                 "Tank",
@@ -3883,6 +4580,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Master Yi",
             "tags": [
                 "Assassin",
@@ -3921,6 +4625,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "POKE",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Elise",
             "tags": [
                 "Mage",
@@ -3959,6 +4670,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 106
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Alistar",
             "tags": [
                 "Tank",
@@ -3997,6 +4715,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 94
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Katarina",
             "tags": [
                 "Assassin",
@@ -4035,6 +4760,13 @@
                 "hpregen": 9,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Ekko",
             "tags": [
                 "Assassin",
@@ -4073,6 +4805,13 @@
                 "hpregen": 4,
                 "hpperlevel": 78
             },
+           "playstyle": [
+                "BURST",
+                "SPLITPUSH",
+                "SIEGE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Mordekaiser",
             "tags": [
                 "Fighter"
@@ -4110,6 +4849,13 @@
                 "hpregen": 6,
                 "hpperlevel": 74
             },
+           "playstyle": [
+                "PEEL",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Lulu",
             "tags": [
                 "Support",
@@ -4148,6 +4894,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Camille",
             "tags": [
                 "Fighter",
@@ -4186,6 +4939,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "SPLITPUSH",
+                "MOBILE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Aatrox",
             "tags": [
                 "Fighter",
@@ -4224,6 +4984,13 @@
                 "hpregen": 6,
                 "hpperlevel": 82
             },
+             "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Draven",
             "tags": [
                 "Marksman"
@@ -4261,6 +5028,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Tahm Kench",
             "tags": [
                 "Support",
@@ -4299,6 +5073,13 @@
                 "hpregen": 8,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "POKE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Pantheon",
             "tags": [
                 "Fighter",
@@ -4337,6 +5118,13 @@
                 "hpregen": 8,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Xin Zhao",
             "tags": [
                 "Fighter",
@@ -4375,6 +5163,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Aurelion Sol",
             "tags": [
                 "Mage",
@@ -4413,6 +5208,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "MOBILE",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Lee Sin",
             "tags": [
                 "Fighter",
@@ -4451,6 +5253,12 @@
                 "hpregen": 6,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Taric",
             "tags": [
                 "Support",
@@ -4489,6 +5297,13 @@
                 "hpregen": 6,
                 "hpperlevel": 87
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "PEEL",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Malzahar",
             "tags": [
                 "Mage",
@@ -4527,6 +5342,13 @@
                 "hpregen": 6.2,
                 "hpperlevel": 80
             },
+           "playstyle": [
+                "SPLITPUSH",
+                "MOBILE",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Kai'Sa",
             "tags": [
                 "Marksman"
@@ -4564,6 +5386,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 95
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Diana",
             "tags": [
                 "Fighter",
@@ -4602,6 +5431,14 @@
                 "hpregen": 6,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "SIEGE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Tristana",
             "tags": [
                 "Marksman",
@@ -4640,6 +5477,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "PEEL"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Rek'Sai",
             "tags": [
                 "Fighter"
@@ -4677,6 +5521,14 @@
                 "hpregen": 7,
                 "hpperlevel": 96
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "SPLITPUSH",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Vladimir",
             "tags": [
                 "Mage",
@@ -4715,6 +5567,13 @@
                 "hpregen": 8,
                 "hpperlevel": 90
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Jarvan IV",
             "tags": [
                 "Tank",
@@ -4753,6 +5612,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 74
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Nami",
             "tags": [
                 "Support",
@@ -4791,6 +5657,13 @@
                 "hpregen": 6,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "PEEL",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Jhin",
             "tags": [
                 "Marksman",
@@ -4829,6 +5702,12 @@
                 "hpregen": 2.5,
                 "hpperlevel": 78
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Soraka",
             "tags": [
                 "Support",
@@ -4867,6 +5746,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 94
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "BURST",
+                "PEEL"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Veigar",
             "tags": [
                 "Mage"
@@ -4904,6 +5790,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 70
             },
+           "playstyle": [
+                "PEEL",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "LOW",
             "name": "Janna",
             "tags": [
                 "Support",
@@ -4942,6 +5835,13 @@
                 "hpregen": 8.5,
                 "hpperlevel": 86
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Nautilus",
             "tags": [
                 "Tank",
@@ -4980,6 +5880,14 @@
                 "hpregen": 8.5,
                 "hpperlevel": 84
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "WAVECLEAR",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Evelynn",
             "tags": [
                 "Assassin",
@@ -5018,6 +5926,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 89
             },
+           "playstyle": [
+                "ENGAGE",
+                "BURST",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "MED",
             "name": "Gragas",
             "tags": [
                 "Fighter",
@@ -5056,6 +5971,13 @@
                 "hpregen": 7,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Zed",
             "tags": [
                 "Assassin",
@@ -5094,6 +6016,13 @@
                 "hpregen": 9,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "ENGAGE",
+                "PEEL",
+                "BURST"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "HIGH",
             "name": "Vi",
             "tags": [
                 "Fighter",
@@ -5132,6 +6061,13 @@
                 "hpregen": 6,
                 "hpperlevel": 82
             },
+           "playstyle": [
+                "PEEL",
+                "WAVECLEAR",
+                "SIEGE"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Kog'Maw",
             "tags": [
                 "Marksman",
@@ -5170,6 +6106,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "POKE",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "Ahri",
             "tags": [
                 "Mage",
@@ -5208,6 +6151,13 @@
                 "hpregen": 5.5,
                 "hpperlevel": 85
             },
+           "playstyle": [
+                "WAVECLEAR",
+                "MOBILE",
+                "SPLITPUSH"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "MED",
             "name": "Quinn",
             "tags": [
                 "Marksman",
@@ -5246,6 +6196,13 @@
                 "hpregen": 7.5,
                 "hpperlevel": 92
             },
+           "playstyle": [
+                "BURST",
+                "MOBILE",
+                "POKE"
+            ],
+            "attackstyle": "AP",
+            "aggressionlevel": "HIGH",
             "name": "LeBlanc",
             "tags": [
                 "Assassin",
@@ -5284,6 +6241,13 @@
                 "hpregen": 6.5,
                 "hpperlevel": 80
             },
+           "playstyle": [
+                "POKE",
+                "MOBILE",
+                "WAVECLEAR"
+            ],
+            "attackstyle": "AD",
+            "aggressionlevel": "LOW",
             "name": "Ezreal",
             "tags": [
                 "Marksman",
