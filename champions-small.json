@@ -32,6 +32,7 @@
                 "hpperlevel": 85
             },
             "name": "Wukong",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -74,6 +75,7 @@
                 "hpperlevel": 85
             },
             "name": "Jax",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -116,6 +118,7 @@
                 "hpperlevel": 80
             },
             "name": "Fiddlesticks",
+            "price": "1350",
             "lane": [
                 "Support",
                 "Jungle"
@@ -158,6 +161,7 @@
                 "hpperlevel": 89
             },
             "name": "Shaco",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Jungle"
@@ -199,6 +203,7 @@
                 "hpperlevel": 85
             },
             "name": "Warwick",
+            "price": "450",
             "lane": [
                 "Top",
                 "Jungle"
@@ -241,6 +246,7 @@
                 "hpperlevel": 80
             },
             "name": "Xayah",
+            "price": "6300",
             "lane": [
                 "ADC"
             ],
@@ -281,6 +287,7 @@
                 "hpperlevel": 85
             },
             "name": "Nidalee",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Jungle"
@@ -323,6 +330,7 @@
                 "hpperlevel": 79
             },
             "name": "Zyra",
+            "price": "4800",
             "lane": [
                 "Mid",
                 "Support"
@@ -365,6 +373,7 @@
                 "hpperlevel": 70
             },
             "name": "Kled",
+            "price": "6300",
             "lane": [
                 "Top"
             ],
@@ -406,6 +415,7 @@
                 "hpperlevel": 88
             },
             "name": "Brand",
+            "price": "4800",
             "lane": [
                 "Mid",
                 "Support"
@@ -447,6 +457,7 @@
                 "hpperlevel": 86
             },
             "name": "Rammus",
+            "price": "1350",
             "lane": [
                 "Jungle"
             ],
@@ -488,6 +499,7 @@
                 "hpperlevel": 95
             },
             "name": "Illaoi",
+            "price": "6300",
             "lane": [
                 "Top"
             ],
@@ -529,6 +541,7 @@
                 "hpperlevel": 87
             },
             "name": "Corki",
+            "price": "3150",
             "lane": [
                 "Mid",
                 "ADC"
@@ -570,6 +583,7 @@
                 "hpperlevel": 87
             },
             "name": "Braum",
+            "price": "6300",
             "lane": [
                 "Support"
             ],
@@ -611,6 +625,7 @@
                 "hpperlevel": 100
             },
             "name": "Darius",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -652,6 +667,7 @@
                 "hpperlevel": 98
             },
             "name": "Tryndamere",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -694,6 +710,7 @@
                 "hpperlevel": 85
             },
             "name": "Miss Fortune",
+            "price": "3150",
             "lane": [
                 "ADC"
             ],
@@ -734,6 +751,7 @@
                 "hpperlevel": 100
             },
             "name": "Yorick",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -775,6 +793,7 @@
                 "hpperlevel": 92
             },
             "name": "Xerath",
+            "price": "4800",
             "lane": [
                 "Mid",
                 "Support"
@@ -817,6 +836,7 @@
                 "hpperlevel": 82
             },
             "name": "Sivir",
+            "price": "450",
             "lane": [
                 "ADC"
             ],
@@ -857,6 +877,7 @@
                 "hpperlevel": 86
             },
             "name": "Riven",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -899,6 +920,7 @@
                 "hpperlevel": 91
             },
             "name": "Orianna",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -940,6 +962,7 @@
                 "hpperlevel": 82
             },
             "name": "Gangplank",
+            "price": "3150",
             "lane": [
                 "Top"
             ],
@@ -980,6 +1003,7 @@
                 "hpperlevel": 90
             },
             "name": "Malphite",
+            "price": "1350",
             "lane": [
                 "Top"
             ],
@@ -1021,6 +1045,7 @@
                 "hpperlevel": 90
             },
             "name": "Poppy",
+            "price": "450",
             "lane": [
                 "Top",
                 "Jungle",
@@ -1064,6 +1089,7 @@
                 "hpperlevel": 87
             },
             "name": "Lissandra",
+            "price": "6300",
             "lane": [
                 "Mid"
             ],
@@ -1104,6 +1130,7 @@
                 "hpperlevel": 95
             },
             "name": "Jayce",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Mid"
@@ -1146,6 +1173,7 @@
                 "hpperlevel": 90
             },
             "name": "Nunu",
+            "price": "450",
             "lane": [
                 "Support",
                 "Jungle"
@@ -1188,6 +1216,7 @@
                 "hpperlevel": 96
             },
             "name": "Trundle",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -1230,6 +1259,7 @@
                 "hpperlevel": 87
             },
             "name": "Karthus",
+            "price": "3150",
             "lane": [
                 "Mid"
             ],
@@ -1270,6 +1300,7 @@
                 "hpperlevel": 84
             },
             "name": "Graves",
+            "price": "4800",
             "lane": [
                 "Jungle"
             ],
@@ -1310,6 +1341,7 @@
                 "hpperlevel": 92
             },
             "name": "Zoe",
+            "price": "6300",
             "lane": [
                 "Mid",
                 "Support"
@@ -1352,6 +1384,7 @@
                 "hpperlevel": 65
             },
             "name": "Gnar",
+            "price": "6300",
             "lane": [
                 "Top"
             ],
@@ -1393,6 +1426,7 @@
                 "hpperlevel": 91
             },
             "name": "Lux",
+            "price": "3150",
             "lane": [
                 "Mid",
                 "Support"
@@ -1435,6 +1469,7 @@
                 "hpperlevel": 95
             },
             "name": "Shyvana",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Jungle"
@@ -1477,6 +1512,7 @@
                 "hpperlevel": 87
             },
             "name": "Renekton",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -1518,6 +1554,7 @@
                 "hpperlevel": 85
             },
             "name": "Fiora",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -1560,6 +1597,7 @@
                 "hpperlevel": 82
             },
             "name": "Jinx",
+            "price": "6300",
             "lane": [
                 "ADC"
             ],
@@ -1600,6 +1638,7 @@
                 "hpperlevel": 83
             },
             "name": "Kalista",
+            "price": "6300",
             "lane": [
                 "ADC"
             ],
@@ -1640,6 +1679,7 @@
                 "hpperlevel": 98
             },
             "name": "Fizz",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -1681,6 +1721,7 @@
                 "hpperlevel": 90
             },
             "name": "Kassadin",
+            "price": "3150",
             "lane": [
                 "Mid"
             ],
@@ -1722,6 +1763,7 @@
                 "hpperlevel": 77
             },
             "name": "Sona",
+            "price": "3150",
             "lane": [
                 "Support"
             ],
@@ -1763,6 +1805,7 @@
                 "hpperlevel": 85
             },
             "name": "Irelia",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -1804,6 +1847,7 @@
                 "hpperlevel": 90
             },
             "name": "Viktor",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -1844,6 +1888,7 @@
                 "hpperlevel": 85
             },
             "name": "Rakan",
+            "price": "6300",
             "lane": [
                 "Support"
             ],
@@ -1884,6 +1929,7 @@
                 "hpperlevel": 85
             },
             "name": "Kindred",
+            "price": "6300",
             "lane": [
                 "Jungle"
             ],
@@ -1924,6 +1970,7 @@
                 "hpperlevel": 87
             },
             "name": "Cassiopeia",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -1964,6 +2011,7 @@
                 "hpperlevel": 95
             },
             "name": "Maokai",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2006,6 +2054,7 @@
                 "hpperlevel": 90
             },
             "name": "Ornn",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Support"
@@ -2048,6 +2097,7 @@
                 "hpperlevel": 93
             },
             "name": "Thresh",
+            "price": "6300",
             "lane": [
                 "Support"
             ],
@@ -2089,6 +2139,7 @@
                 "hpperlevel": 105
             },
             "name": "Kayle",
+            "price": "450",
             "lane": [
                 "Top",
                 "Jungle",
@@ -2132,6 +2183,7 @@
                 "hpperlevel": 90
             },
             "name": "Hecarim",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2174,6 +2226,7 @@
                 "hpperlevel": 85
             },
             "name": "Kha'Zix",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2216,6 +2269,7 @@
                 "hpperlevel": 93
             },
             "name": "Olaf",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2258,6 +2312,7 @@
                 "hpperlevel": 92
             },
             "name": "Ziggs",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -2298,6 +2353,7 @@
                 "hpperlevel": 90
             },
             "name": "Syndra",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -2339,6 +2395,7 @@
                 "hpperlevel": 89
             },
             "name": "Dr. Mundo",
+            "price": "450",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2381,6 +2438,7 @@
                 "hpperlevel": 95
             },
             "name": "Karma",
+            "price": "3150",
             "lane": [
                 "Mid",
                 "Support"
@@ -2423,6 +2481,7 @@
                 "hpperlevel": 88
             },
             "name": "Annie",
+            "price": "450",
             "lane": [
                 "Mid",
                 "Support"
@@ -2464,6 +2523,7 @@
                 "hpperlevel": 90
             },
             "name": "Akali",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Mid"
@@ -2505,6 +2565,7 @@
                 "hpperlevel": 86
             },
             "name": "Volibear",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2547,6 +2608,7 @@
                 "hpperlevel": 87
             },
             "name": "Yasuo",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Mid"
@@ -2589,6 +2651,7 @@
                 "hpperlevel": 84
             },
             "name": "Kennen",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -2630,6 +2693,7 @@
                 "hpperlevel": 90
             },
             "name": "Rengar",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -2672,6 +2736,7 @@
                 "hpperlevel": 98
             },
             "name": "Ryze",
+            "price": "450",
             "lane": [
                 "Top",
                 "Mid"
@@ -2714,6 +2779,7 @@
                 "hpperlevel": 85
             },
             "name": "Shen",
+            "price": "3150",
             "lane": [
                 "Top"
             ],
@@ -2754,6 +2820,7 @@
                 "hpperlevel": 95
             },
             "name": "Zac",
+            "price": "6300",
             "lane": [
                 "Jungle"
             ],
@@ -2795,6 +2862,7 @@
                 "hpperlevel": 95
             },
             "name": "Talon",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -2836,6 +2904,7 @@
                 "hpperlevel": 90
             },
             "name": "Swain",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Mid"
@@ -2878,6 +2947,7 @@
                 "hpperlevel": 89
             },
             "name": "Bard",
+            "price": "6300",
             "lane": [
                 "Support"
             ],
@@ -2919,6 +2989,7 @@
                 "hpperlevel": 73
             },
             "name": "Sion",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle",
@@ -2962,6 +3033,7 @@
                 "hpperlevel": 83
             },
             "name": "Vayne",
+            "price": "4800",
             "lane": [
                 "Top",
                 "ADC"
@@ -3004,6 +3076,7 @@
                 "hpperlevel": 90
             },
             "name": "Nasus",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3046,6 +3119,7 @@
                 "hpperlevel": 85
             },
             "name": "Kayn",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3088,6 +3162,7 @@
                 "hpperlevel": 94
             },
             "name": "Twisted Fate",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Mid"
@@ -3129,6 +3204,7 @@
                 "hpperlevel": 80
             },
             "name": "Cho'Gath",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3171,6 +3247,7 @@
                 "hpperlevel": 99
             },
             "name": "Udyr",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3213,6 +3290,7 @@
                 "hpperlevel": 80
             },
             "name": "Lucian",
+            "price": "6300",
             "lane": [
                 "Top",
                 "ADC",
@@ -3255,6 +3333,7 @@
                 "hpperlevel": 95
             },
             "name": "Ivern",
+            "price": "6300",
             "lane": [
                 "Jungle"
             ],
@@ -3296,6 +3375,7 @@
                 "hpperlevel": 87
             },
             "name": "Leona",
+            "price": "4800",
             "lane": [
                 "Support"
             ],
@@ -3337,6 +3417,7 @@
                 "hpperlevel": 85
             },
             "name": "Caitlyn",
+            "price": "4800",
             "lane": [
                 "ADC"
             ],
@@ -3377,6 +3458,7 @@
                 "hpperlevel": 88
             },
             "name": "Sejuani",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3419,6 +3501,7 @@
                 "hpperlevel": 85
             },
             "name": "Nocturne",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -3461,6 +3544,7 @@
                 "hpperlevel": 82
             },
             "name": "Zilean",
+            "price": "1350",
             "lane": [
                 "Support"
             ],
@@ -3502,6 +3586,7 @@
                 "hpperlevel": 92
             },
             "name": "Azir",
+            "price": "6300",
             "lane": [
                 "Mid"
             ],
@@ -3543,6 +3628,7 @@
                 "hpperlevel": 85
             },
             "name": "Rumble",
+            "price": "4800",
             "lane": [
                 "Top"
             ],
@@ -3584,6 +3670,7 @@
                 "hpperlevel": 90
             },
             "name": "Morgana",
+            "price": "1350",
             "lane": [
                 "Mid",
                 "Support"
@@ -3626,6 +3713,7 @@
                 "hpperlevel": 90
             },
             "name": "Taliyah",
+            "price": "6300",
             "lane": [
                 "Mid",
                 "Support"
@@ -3668,6 +3756,7 @@
                 "hpperlevel": 90
             },
             "name": "Teemo",
+            "price": "1350",
             "lane": [
                 "Top",
                 "ADC"
@@ -3710,6 +3799,7 @@
                 "hpperlevel": 88
             },
             "name": "Urgot",
+            "price": "3150",
             "lane": [
                 "Top"
             ],
@@ -3750,6 +3840,7 @@
                 "hpregen": 9,
                 "hpperlevel": 84
             },
+            "price": "450",
             "name": "Amumu",
             "lane": [
                 "Jungle"
@@ -3792,6 +3883,7 @@
                 "hpperlevel": 112
             },
             "name": "Galio",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Mid"
@@ -3834,6 +3926,7 @@
                 "hpperlevel": 87
             },
             "name": "Heimerdinger",
+            "price": "3150",
             "lane": [
                 "Top",
                 "Mid"
@@ -3876,6 +3969,7 @@
                 "hpperlevel": 82
             },
             "name": "Anivia",
+            "price": "3150",
             "lane": [
                 "Mid"
             ],
@@ -3917,6 +4011,7 @@
                 "hpperlevel": 79
             },
             "name": "Ashe",
+            "price": "450",
             "lane": [
                 "ADC"
             ],
@@ -3958,6 +4053,7 @@
                 "hpperlevel": 88
             },
             "name": "Vel'Koz",
+            "price": "6300",
             "lane": [
                 "Mid"
             ],
@@ -3998,6 +4094,7 @@
                 "hpperlevel": 85
             },
             "name": "Singed",
+            "price": "450",
             "lane": [
                 "Top"
             ],
@@ -4039,6 +4136,7 @@
                 "hpperlevel": 90
             },
             "name": "Skarner",
+            "price": "4800",
             "lane": [
                 "Jungle"
             ],
@@ -4080,6 +4178,7 @@
                 "hpperlevel": 82
             },
             "name": "Varus",
+            "price": "4800",
             "lane": [
                 "ADC"
             ],
@@ -4121,6 +4220,7 @@
                 "hpperlevel": 81
             },
             "name": "Twitch",
+            "price": "3150",
             "lane": [
                 "ADC"
             ],
@@ -4162,6 +4262,7 @@
                 "hpperlevel": 84.25
             },
             "name": "Garen",
+            "price": "450",
             "lane": [
                 "Top"
             ],
@@ -4203,6 +4304,7 @@
                 "hpperlevel": 95
             },
             "name": "Blitzcrank",
+            "price": "3150",
             "lane": [
                 "Support"
             ],
@@ -4244,6 +4346,7 @@
                 "hpperlevel": 92
             },
             "name": "Master Yi",
+            "price": "450",
             "lane": [
                 "Top",
                 "Jungle"
@@ -4286,6 +4389,7 @@
                 "hpperlevel": 85
             },
             "name": "Elise",
+            "price": "4800",
             "lane": [
                 "Jungle"
             ],
@@ -4327,6 +4431,7 @@
                 "hpperlevel": 106
             },
             "name": "Alistar",
+            "price": "1350",
             "lane": [
                 "Support"
             ],
@@ -4368,6 +4473,7 @@
                 "hpperlevel": 94
             },
             "name": "Katarina",
+            "price": "3150",
             "lane": [
                 "Mid"
             ],
@@ -4409,6 +4515,7 @@
                 "hpperlevel": 85
             },
             "name": "Ekko",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Jungle",
@@ -4452,6 +4559,7 @@
                 "hpperlevel": 78
             },
             "name": "Mordekaiser",
+            "price": "1350",
             "lane": [
                 "Top"
             ],
@@ -4492,6 +4600,7 @@
                 "hpperlevel": 74
             },
             "name": "Lulu",
+            "price": "4800",
             "lane": [
                 "Mid",
                 "Support"
@@ -4534,6 +4643,7 @@
                 "hpperlevel": 85
             },
             "name": "Camille",
+            "price": "6300",
             "lane": [
                 "Top"
             ],
@@ -4575,6 +4685,7 @@
                 "hpperlevel": 85
             },
             "name": "Aatrox",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Jungle"
@@ -4617,6 +4728,7 @@
                 "hpperlevel": 82
             },
             "name": "Draven",
+            "price": "4800",
             "lane": [
                 "ADC"
             ],
@@ -4657,6 +4769,7 @@
                 "hpperlevel": 95
             },
             "name": "Tahm Kench",
+            "price": "6300",
             "lane": [
                 "Top",
                 "Support"
@@ -4699,6 +4812,7 @@
                 "hpperlevel": 87
             },
             "name": "Pantheon",
+            "price": "3150",
             "lane": [
                 "Top"
             ],
@@ -4740,6 +4854,7 @@
                 "hpperlevel": 92
             },
             "name": "Xin Zhao",
+            "price": "1350",
             "lane": [
                 "Top",
                 "Jungle"
@@ -4782,6 +4897,7 @@
                 "hpperlevel": 92
             },
             "name": "Aurelion Sol",
+            "price": "6300",
             "lane": [
                 "Mid"
             ],
@@ -4823,6 +4939,7 @@
                 "hpperlevel": 85
             },
             "name": "Lee Sin",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -4865,6 +4982,7 @@
                 "hpperlevel": 90
             },
             "name": "Taric",
+            "price": "1350",
             "lane": [
                 "Support"
             ],
@@ -4906,6 +5024,7 @@
                 "hpperlevel": 87
             },
             "name": "Malzahar",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -4947,6 +5066,7 @@
                 "hpperlevel": 80
             },
             "name": "Kai'Sa",
+            "price": "6300",
             "lane": [
                 "ADC",
                 "Jungle"
@@ -4988,6 +5108,7 @@
                 "hpperlevel": 95
             },
             "name": "Diana",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Mid",
@@ -5031,6 +5152,7 @@
                 "hpperlevel": 82
             },
             "name": "Tristana",
+            "price": "1350",
             "lane": [
                 "ADC"
             ],
@@ -5072,6 +5194,7 @@
                 "hpperlevel": 85
             },
             "name": "Rek'Sai",
+            "price": "6300",
             "lane": [
                 "Jungle"
             ],
@@ -5112,6 +5235,7 @@
                 "hpperlevel": 96
             },
             "name": "Vladimir",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Mid"
@@ -5154,6 +5278,7 @@
                 "hpperlevel": 90
             },
             "name": "Jarvan IV",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Jungle"
@@ -5196,6 +5321,7 @@
                 "hpperlevel": 74
             },
             "name": "Nami",
+            "price": "4800",
             "lane": [
                 "Support"
             ],
@@ -5237,6 +5363,7 @@
                 "hpperlevel": 85
             },
             "name": "Jhin",
+            "price": "6300",
             "lane": [
                 "ADC"
             ],
@@ -5278,6 +5405,7 @@
                 "hpperlevel": 78
             },
             "name": "Soraka",
+            "price": "450",
             "lane": [
                 "Support"
             ],
@@ -5319,6 +5447,7 @@
                 "hpperlevel": 94
             },
             "name": "Veigar",
+            "price": "1350",
             "lane": [
                 "Mid",
                 "Support"
@@ -5360,6 +5489,7 @@
                 "hpperlevel": 70
             },
             "name": "Janna",
+            "price": "1350",
             "lane": [
                 "Support"
             ],
@@ -5401,6 +5531,7 @@
                 "hpperlevel": 86
             },
             "name": "Nautilus",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Support"
@@ -5443,6 +5574,7 @@
                 "hpperlevel": 84
             },
             "name": "Evelynn",
+            "price": "1350",
             "lane": [
                 "Jungle"
             ],
@@ -5484,6 +5616,7 @@
                 "hpperlevel": 89
             },
             "name": "Gragas",
+            "price": "3150",
             "lane": [
                 "Mid",
                 "Jungle"
@@ -5526,6 +5659,7 @@
                 "hpperlevel": 85
             },
             "name": "Zed",
+            "price": "4800",
             "lane": [
                 "Top",
                 "Mid"
@@ -5568,6 +5702,7 @@
                 "hpperlevel": 85
             },
             "name": "Vi",
+            "price": "6300",
             "lane": [
                 "Jungle"
             ],
@@ -5609,6 +5744,7 @@
                 "hpperlevel": 82
             },
             "name": "Kog'Maw",
+            "price": "4800",
             "lane": [
                 "ADC"
             ],
@@ -5650,6 +5786,7 @@
                 "hpperlevel": 92
             },
             "name": "Ahri",
+            "price": "4800",
             "lane": [
                 "Mid"
             ],
@@ -5691,6 +5828,7 @@
                 "hpperlevel": 85
             },
             "name": "Quinn",
+            "price": "6300",
             "lane": [
                 "Mid"
             ],
@@ -5732,6 +5870,7 @@
                 "hpperlevel": 92
             },
             "name": "LeBlanc",
+            "price": "3150",
             "lane": [
                 "Mid"
             ],
@@ -5773,6 +5912,7 @@
                 "hpperlevel": 80
             },
             "name": "Ezreal",
+            "price": "4800",
             "lane": [
                 "ADC",
                 "Jungle"
