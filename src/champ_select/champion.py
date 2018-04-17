@@ -23,7 +23,7 @@ class Champion(object):
         for _, champ_data in input_champions.items():
             champ = Champion(champ_data["name"])
             champ.lanes = champ_data["lane"]
-            champ.aggression_level = champ_data["aggressionLevel"]
+            champ.aggression_level = champ_data["aggressionlevel"]
             champions.append(champ)
 
         return champions

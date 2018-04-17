@@ -6,7 +6,7 @@ def main():
     if len(sys.argv) == 3:
         json_file = sys.argv[3]
     else:
-        json_file = "test.json"
+        json_file = "champions-small.json"
 
     champions = Champion.from_json(json_file)
 
@@ -25,7 +25,7 @@ def apply_questions(champions, questions):
     for question in questions:
         champions = list(question(champions))
 
-        if len(champions) == 0:
+        if len(champions) <= 1:
             break
     return champions
 
@@ -35,9 +35,8 @@ def lanes(champions):
     Prompts the user to select their preferred lane. This function just filters
     out all champions that are not in their selected lane.
     """
-    choice = prompt_user("What lane would you like to play?", ["Top", "Jungle", "Middle", "ADC", "Support"])
-    champions = filter(lambda champ: choice.upper() in champ.lanes, champions)
-
+    choice = prompt_user("What lane would you like to play?", ["Top", "Jungle", "Mid", "ADC", "Support"])
+    champions = filter(lambda champ: choice in champ.lanes, champions)
     return champions
 
 
