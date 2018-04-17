@@ -1,0 +1,17 @@
+{
+  "Monkey King": {
+    "name": "wukong",
+    "lane": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "aggressionLevel": "LOW"
+  },
+  "dude": {
+    "name": "McGuy",
+    "lane": [
+      "TOP"
+    ],
+    "aggressionLevel": "HIGH"
+  }
+}
