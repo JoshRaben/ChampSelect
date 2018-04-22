@@ -15,12 +15,13 @@ def main():
     print("ChampSelect. An AI that picks your League of Legends.")
     print()
 
-    champions = apply_questions(champions, [lanes, aggression_level, blue_essence])
+    champions = apply_questions(champions, [lanes, aggression_level, blue_essence, player_type])
     print()
 
     print("Your champion(s):")
-    for champ in champions:
-        print("\t" + champ.name)
+    champions.sort(key=lambda x: x.certainty_factor, reverse=True)
+    for champ in champions[:10]:
+        print("\t" + champ.name + "\t" + "Certainty: " + str(champ.certainty_factor))
 
 
 def apply_questions(champions, questions):
@@ -84,6 +85,45 @@ def blue_essence(champions):
             champ.certainty_combined(cheap_certainty)
         else:
             champ.certainty_combined(expensive_certainty)
+
+    return champions
+
+
+def player_type(champions):
+    """
+    Possible player types:
+        Marksman
+        Mage
+        Fighter
+        Tank
+        Assassin
+        Support
+    """
+    done = False
+    type_set = ["MARKSMAN", "MAGE", "FIGHTER", "TANK", "ASSASSIN", "SUPPORT"]
+    user_types = []
+
+    while not done:
+        print("What champion types do you want? (Marksman, Mage, Fighter, Tank, Assassin, Support). ")
+        print("Type \"done\" when you are done adding types.")
+
+        type = input("> ")
+        if type.upper().strip() == "DONE":
+            done = True
+        elif type.upper().strip() in type_set:
+            user_types.append(type)
+        else:
+            print("\"" + type + "\" isn't a valid type.")
+    if not len(user_types) == 0:
+        for champ in champions:
+            champ_has_type = False
+            for champ_type in champ.types:
+                if champ_type.upper().strip() in user_types:
+                    champ_has_type = True
+                    champ.certainty_combined(0.65)
+
+            if not champ_has_type:
+                champ.certainty_combined(-0.65)
 
     return champions
 
