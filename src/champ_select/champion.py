@@ -9,6 +9,7 @@ class Champion(object):
     name = None
     lanes = None
     aggression_level = None
+    certainty_factor = None
 
     def __init__(self, name):
         self.name = name
@@ -27,3 +28,17 @@ class Champion(object):
             champions.append(champ)
 
         return champions
+
+    def certainty_combined(self, new_certainty):
+        if self.certainty_factor is None:
+            self.certainty_factor = new_certainty
+        elif self.certainty_factor > 0 and new_certainty > 0:
+            # both certainties have positive values so we combine them using the positive formula
+            self.certainty_factor = (self.certainty_factor + new_certainty) - (self.certainty_factor - new_certainty)
+        elif self.certainty_factor < 0 and new_certainty < 0:
+            # both certainties have negative values so we combine them using the negative formula
+            self.certainty_factor = (self.certainty_factor + new_certainty) + (self.certainty_factor + new_certainty)
+        else:
+            # the certainty values are opposite of each other so combine them using the
+            self.certainty_factor = (self.certainty_factor + new_certainty) \
+                                    / (1.0 - min(abs(self.certainty_factor), abs(new_certainty)))
