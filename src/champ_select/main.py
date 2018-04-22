@@ -45,19 +45,47 @@ def aggression_level(champions):
     probabilities = {}
     if choice == "Yes":
         probabilities = {
-            "LOW": 0.0,
-            "MED": 0.5,
-            "HIGH": 1.0
+            "LOW": -0.5,
+            "MED": 0.0,
+            "HIGH": 0.5
         }
     else:
         probabilities = {
-            "LOW": 1.0,
-            "MED": 0.5,
-            "HIGH": 0.0
+            "LOW": 0.5,
+            "MED": 0.0,
+            "HIGH": -0.5
         }
 
     return filter(lambda champ: probabilities[champ.aggression_level] >= 0.5, champions)
 
+
+def objective_based(champions):
+    choice = prompt_user("Are you more objective oriented or do you concentrate on your own lane?", ["Teamwork", "Solo"])
+    probabilities = {}
+    if choice == "Teamwork":
+        probabilities = {
+            "SPLITPUSH": -0.65,
+            "MOBILE": -0.35,
+            "ENGAGE": 0.75,
+            "PEEL": 0.85,
+            "POKE": 0.0,
+            "WAVECLEAR": 0.0,
+            "SIEGE": 0.25,
+            "BURST": 0.0
+        }
+    else:
+        probabilities = {
+            "SPLITPUSH": 0.65,
+            "MOBILE": 0.55,
+            "ENGAGE": -0.75,
+            "PEEL": -0.85,
+            "POKE": 0.0,
+            "WAVECLEAR": 0.0,
+            "SIEGE": 0.45,
+            "BURST": 0.0
+        }
+
+        return lambda champ: probabilities[champ.playstyle] >= 0.5, champions
 
 def prompt_user(question, answers):
     while True:
