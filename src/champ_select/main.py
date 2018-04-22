@@ -176,6 +176,25 @@ def mechanical_level(champions):
                 champion.certainty_combined(probabilities[champion.difficulty])
 
 
+def attack_style(champions):
+    choice = prompt_user("Do you prefer AD or AP champions?", ["AP", "AD"])
+    probabilities = {}
+    if choice == "AP":
+        probabilities = {
+            "AP": 0.6,
+            "AD": -0.3
+        }
+
+    if choice == "AD":
+        probabilities = {
+            "AP": -0.3,
+            "AD": 0.6
+        }
+
+        for champion in champions:
+                champion.certainty_combined(probabilities[champion.attackstyle])
+
+
 def prompt_user(question, answers):
     while True:
         print(question)
