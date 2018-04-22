@@ -45,10 +45,10 @@ class Champion(object):
             self.certainty_factor = new_certainty
         elif self.certainty_factor > 0 and new_certainty > 0:
             # both certainties have positive values so we combine them using the positive formula
-            self.certainty_factor = (self.certainty_factor + new_certainty) - (self.certainty_factor - new_certainty)
+            self.certainty_factor = (self.certainty_factor + new_certainty) - (self.certainty_factor * new_certainty)
         elif self.certainty_factor < 0 and new_certainty < 0:
             # both certainties have negative values so we combine them using the negative formula
-            self.certainty_factor = (self.certainty_factor + new_certainty) + (self.certainty_factor + new_certainty)
+            self.certainty_factor = (self.certainty_factor + new_certainty) + (self.certainty_factor * new_certainty)
         else:
             # the certainty values are opposite of each other so combine them using the
             self.certainty_factor = (self.certainty_factor + new_certainty) \
