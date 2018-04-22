@@ -41,11 +41,11 @@ def lanes(champions):
 
 
 def aggression_level(champions):
-    choice = prompt_user("Do you like to be in the action or are you more laid back and methodical?", ["Yes", "No"])
+    choice = prompt_user("Do you like to be in the action or are you more laid back and methodical?", ["In the action", "Laid back"])
     probabilities = {}
-    if choice == "Yes":
+    if choice == "In the action":
         probabilities = {
-            "LOW": 0.0,
+            "LOW": 0.25,
             "MED": 0.5,
             "HIGH": 1.0
         }
@@ -53,11 +53,75 @@ def aggression_level(champions):
         probabilities = {
             "LOW": 1.0,
             "MED": 0.5,
-            "HIGH": 0.0
+            "HIGH": 0.25
         }
 
-    return filter(lambda champ: probabilities[champ.aggression_level] >= 0.5, champions)
+    for champ in champions:
+        champ.probability = probabilities[champ.aggression_level]
 
+    return champions
+
+def moba_experience(champions):
+    choice = prompt_user("How much experience do you have in the MOBA category of games?", ["Very little (less than 100 hours)",
+                                                                                            "Some (100-300 hours",
+                                                                                            "Moderate (300-1000 hours)",
+                                                                                            "A lot (1000+ hours)"])
+    probabilities = {}
+    if choice == "Very little (less than 100 hours)":
+            probabilities = {
+                "1": 0.99,
+                "2": 0.99,
+                "3": 0.8,
+                "4": 0.4,
+                "5": 0.2,
+                "6": 0.2,
+                "7": 0.1,
+                "8": -0.2,
+                "9": -0.5,
+                "10": -0.8,
+            }
+    if choice == "Some (100-300 hours)":
+            probabilities = {
+                "1": 0.99,
+                "2": 0.99,
+                "3": 0.99,
+                "4": 0.99,
+                "5": 0.6,
+                "6": 0.3,
+                "7": 0.2,
+                "8": 0.0,
+                "9": -0.2,
+                "10": -0.5,
+            }
+    if choice == "Moderate (300-1000 hours)":
+            probabilities = {
+                "1": 0.99,
+                "2": 0.99,
+                "3": 0.99,
+                "4": 0.99,
+                "5": 0.99,
+                "6": 0.99,
+                "7": 0.99,
+                "8": 0.3,
+                "9": -0.1,
+                "10": -0.3,
+            }
+    if choice == "A lot (1000+ hours)":
+        probabilities = {
+            "1": 0.99,
+            "2": 0.99,
+            "3": 0.99,
+            "4": 0.99,
+            "5": 0.99,
+            "6": 0.99,
+            "7": 0.99,
+            "8": 0.99,
+            "9": 0.8,
+            "10": 0.6,
+        }
+
+        for champion in champions:
+                champion.certainty_combined(probabilities[champion.difficulty])
 
 def prompt_user(question, answers):
     while True:
