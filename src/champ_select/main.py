@@ -190,6 +190,7 @@ def objective_based(champions):
 
         return champions
 
+
 def split_or_tf(champions):
     choice = prompt_user("Do you like to split push or team fight",
                          ["Split Push", "Team Fight"])
@@ -255,6 +256,7 @@ def roaming(champions):
 
         return champions
 
+
 def roaming(champions):
     choice = prompt_user("Do you enjoy roaming to support your team?",
                          ["Yes", "No"])
@@ -286,6 +288,7 @@ def roaming(champions):
             champion.certainty_combined(probabilities[champion.playstyle])
 
         return champions
+
 
 def prompt_user(question, answers):
     while True:
