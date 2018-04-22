@@ -58,15 +58,15 @@ def aggression_level(champions):
     probabilities = {}
     if choice == "Yes":
         probabilities = {
-            "LOW": 0.0,
-            "MED": 0.5,
-            "HIGH": 1.0
+            "LOW": -0.5,
+            "MED": 0.0,
+            "HIGH": 0.5
         }
     else:
         probabilities = {
-            "LOW": 1.0,
-            "MED": 0.5,
-            "HIGH": 0.0
+            "LOW": 0.5,
+            "MED": 0.0,
+            "HIGH": -0.5
         }
 
     for champ in champions:
@@ -157,6 +157,135 @@ def prompt_range(question, min_number, max_number=0):
 
     return min_answer, max_answer
 
+
+def objective_based(champions):
+    choice = prompt_user("Are you more objective oriented or do you concentrate on your own lane?",
+                         ["Teamwork", "Solo"])
+    probabilities = {}
+    if choice == "Teamwork":
+        probabilities = {
+            "SPLITPUSH": -0.65,
+            "MOBILE": -0.35,
+            "ENGAGE": 0.75,
+            "PEEL": 0.85,
+            "POKE": 0.0,
+            "WAVECLEAR": 0.0,
+            "SIEGE": 0.25,
+            "BURST": 0.0
+        }
+    else:
+        probabilities = {
+            "SPLITPUSH": 0.45,
+            "MOBILE": 0.55,
+            "ENGAGE": -0.75,
+            "PEEL": -0.85,
+            "POKE": 0.0,
+            "WAVECLEAR": 0.0,
+            "SIEGE": 0.45,
+            "BURST": 0.0
+        }
+
+        for champion in champions:
+            champion.certainty_combined(probabilities[champion.playstyle])
+
+        return champions
+
+def split_or_tf(champions):
+    choice = prompt_user("Do you like to split push or team fight",
+                         ["Split Push", "Team Fight"])
+    probabilities = {}
+    if choice == "Split Push":
+        probabilities = {
+            "SPLITPUSH": 0.85,
+            "MOBILE": 0.35,
+            "ENGAGE": 0.15,
+            "PEEL": -0.25,
+            "POKE": 0.0,
+            "WAVECLEAR": 0.0,
+            "SIEGE": 0.25,
+            "BURST": 0.0
+        }
+    else:
+        probabilities = {
+            "SPLITPUSH": -0.75,
+            "MOBILE": 0.65,
+            "ENGAGE": 0.25,
+            "PEEL": 0.60,
+            "POKE": 0.35,
+            "WAVECLEAR": 0.15,
+            "SIEGE": 0.45,
+            "BURST": 0.35
+        }
+
+        for champion in champions:
+            champion.certainty_combined(probabilities[champion.playstyle])
+
+        return champions
+
+
+def roaming(champions):
+    choice = prompt_user("Do you enjoy roaming to support your team?",
+                         ["Yes", "No"])
+    probabilities = {}
+    if choice == "Yes":
+        probabilities = {
+            "SPLITPUSH": -0.15,
+            "MOBILE": 0.75,
+            "ENGAGE": 0.65,
+            "PEEL": -0.25,
+            "POKE": -0.25,
+            "WAVECLEAR": 0.15,
+            "SIEGE": 0.45,
+            "BURST": 0.25
+        }
+    else:
+        probabilities = {
+            "SPLITPUSH": 0.5,
+            "MOBILE": -0.25,
+            "ENGAGE": -0.15,
+            "PEEL": 0.45,
+            "POKE": 0.25,
+            "WAVECLEAR": 0.45,
+            "SIEGE": -0.35,
+            "BURST": -0.35
+        }
+
+        for champion in champions:
+            champion.certainty_combined(probabilities[champion.playstyle])
+
+        return champions
+
+def roaming(champions):
+    choice = prompt_user("Do you enjoy roaming to support your team?",
+                         ["Yes", "No"])
+    probabilities = {}
+    if choice == "Yes":
+        probabilities = {
+            "SPLITPUSH": -0.15,
+            "MOBILE": 0.75,
+            "ENGAGE": 0.65,
+            "PEEL": -0.05,
+            "POKE": -0.25,
+            "WAVECLEAR": 0.35,
+            "SIEGE": 0.45,
+            "BURST": 0.25
+        }
+    else:
+        probabilities = {
+            "SPLITPUSH": 0.5,
+            "MOBILE": -0.25,
+            "ENGAGE": -0.15,
+            "PEEL": 0.45,
+            "POKE": 0.25,
+            "WAVECLEAR": 0.45,
+            "SIEGE": -0.35,
+            "BURST": -0.35
+        }
+
+        for champion in champions:
+            champion.certainty_combined(probabilities[champion.playstyle])
+
+        return champions
 
 def prompt_user(question, answers):
     while True:
