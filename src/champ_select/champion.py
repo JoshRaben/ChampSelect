@@ -9,6 +9,7 @@ class Champion(object):
     name = None
     lanes = None
     aggression_level = None
+    price = None
     certainty_factor = None
 
     def __init__(self, name):
@@ -25,6 +26,7 @@ class Champion(object):
             champ = Champion(champ_data["name"])
             champ.lanes = champ_data["lane"]
             champ.aggression_level = champ_data["aggressionlevel"]
+            champ.price = float(champ_data["price"])
             champions.append(champ)
 
         return champions
