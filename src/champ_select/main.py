@@ -368,6 +368,7 @@ def moba_experience(champions):
         for champion in champions:
                 champion.certainty_combined(probabilities[champion.difficulty])
 
+    return champions
 
 def mechanical_level(champions):
     choice = prompt_user("Do you enjoy playing high skill cap champions?", ["I like highly mechanical champions.",
@@ -419,7 +420,7 @@ def mechanical_level(champions):
         for champion in champions:
                 champion.certainty_combined(probabilities[champion.difficulty])
 
-
+    return champions
 
 def prompt_user(question, answers):
     while True:
