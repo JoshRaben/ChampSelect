@@ -257,39 +257,6 @@ def roaming(champions):
         return champions
 
 
-def roaming(champions):
-    choice = prompt_user("Do you enjoy roaming to support your team?",
-                         ["Yes", "No"])
-    probabilities = {}
-    if choice == "Yes":
-        probabilities = {
-            "SPLITPUSH": -0.15,
-            "MOBILE": 0.75,
-            "ENGAGE": 0.65,
-            "PEEL": -0.05,
-            "POKE": -0.25,
-            "WAVECLEAR": 0.35,
-            "SIEGE": 0.45,
-            "BURST": 0.25
-        }
-    else:
-        probabilities = {
-            "SPLITPUSH": 0.5,
-            "MOBILE": -0.25,
-            "ENGAGE": -0.15,
-            "PEEL": 0.45,
-            "POKE": 0.25,
-            "WAVECLEAR": 0.45,
-            "SIEGE": -0.35,
-            "BURST": -0.35
-        }
-
-        for champion in champions:
-            champion.certainty_combined(probabilities[champion.playstyle])
-
-        return champions
-
-
 def prompt_user(question, answers):
     while True:
         print(question)
