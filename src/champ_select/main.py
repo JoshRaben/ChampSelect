@@ -190,6 +190,7 @@ def objective_based(champions):
 
         return champions
 
+
 def split_or_tf(champions):
     choice = prompt_user("Do you like to split push or team fight",
                          ["Split Push", "Team Fight"])
