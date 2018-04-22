@@ -15,12 +15,21 @@ def main():
     print("ChampSelect. An AI that picks your League of Legends.")
     print()
 
-    champions = apply_questions(champions, [lanes, aggression_level, blue_essence, player_type])
+    champions = apply_questions(champions, [lanes,
+                                            aggression_level,
+                                            blue_essence,
+                                            moba_experience,
+                                            mechanical_level,
+                                            player_type,
+                                            attack_style,
+                                            roaming,
+                                            split_or_tf,
+                                            objective_based])
     print()
 
-    print("Your champion(s):")
+    print("Your top ten champion(s):")
     champions.sort(key=lambda x: x.certainty_factor, reverse=True)
-    for champ in champions[:10]:
+    for champ in champions:
         print("\t" + champ.name + "\t" + "Certainty: " + str(champ.certainty_factor))
 
 
@@ -54,7 +63,8 @@ def aggression_level(champions):
     """
     Asks if the player is aggressive and picks characters based on the probability of our aggression level
     """
-    choice = prompt_user("Do you like to be in the action or are you more laid back and methodical?", ["In the action", "Laid back"])
+    choice = prompt_user("Do you like to be in the action or are you more laid back and methodical?",
+                         ["In the action", "Laid back"])
     probabilities = {}
     if choice == "In the action":
         probabilities = {
@@ -256,36 +266,6 @@ def roaming(champions):
 
         return champions
 
-def roaming(champions):
-    choice = prompt_user("Do you enjoy roaming to support your team?",
-                         ["Yes", "No"])
-    probabilities = {}
-    if choice == "Yes":
-        probabilities = {
-            "SPLITPUSH": -0.15,
-            "MOBILE": 0.75,
-            "ENGAGE": 0.65,
-            "PEEL": -0.05,
-            "POKE": -0.25,
-            "WAVECLEAR": 0.35,
-            "SIEGE": 0.45,
-            "BURST": 0.25
-        }
-    else:
-        probabilities = {
-            "SPLITPUSH": 0.5,
-            "MOBILE": -0.25,
-            "ENGAGE": -0.15,
-            "PEEL": 0.45,
-            "POKE": 0.25,
-            "WAVECLEAR": 0.45,
-            "SIEGE": -0.35,
-            "BURST": -0.35
-        }
-
-        for champion in champions:
-            champion.certainty_combined(probabilities[champion.playstyle])
-
 
 def attack_style(champions):
     choice = prompt_user("Do you prefer AD or AP champions?", ["AP", "AD"])
@@ -303,15 +283,17 @@ def attack_style(champions):
         }
 
         for champion in champions:
-                champion.certainty_combined(probabilities[champion.attackstyle])
+            champion.certainty_combined(probabilities[champion.attackstyle])
 
         return champions
 
+
 def moba_experience(champions):
-    choice = prompt_user("How much experience do you have in the MOBA category of games?", ["Very little (less than 100 hours)",
-                                                                                            "Some (100-300 hours",
-                                                                                            "Moderate (300-1000 hours)",
-                                                                                            "A lot (1000+ hours)"])
+    choice = prompt_user("How much experience do you have in the MOBA category of games?",
+                         ["Very little (less than 100 hours)",
+                          "Some (100-300 hours",
+                          "Moderate (300-1000 hours)",
+                          "A lot (1000+ hours)"])
     probabilities = {}
     if choice == "Very little (less than 100 hours)":
         probabilities = {
@@ -367,9 +349,10 @@ def moba_experience(champions):
         }
 
         for champion in champions:
-                champion.certainty_combined(probabilities[champion.difficulty])
+            champion.certainty_combined(probabilities[champion.difficulty])
 
     return champions
+
 
 def mechanical_level(champions):
     choice = prompt_user("Do you enjoy playing high skill cap champions?", ["I like highly mechanical champions.",
@@ -419,9 +402,10 @@ def mechanical_level(champions):
         }
 
         for champion in champions:
-                champion.certainty_combined(probabilities[champion.difficulty])
+            champion.certainty_combined(probabilities[champion.difficulty])
 
     return champions
+
 
 def prompt_user(question, answers):
     while True:

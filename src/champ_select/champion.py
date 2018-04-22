@@ -9,7 +9,6 @@ class Champion(object):
     name = None
     lanes = None
     aggression_level = None
-    probability = 1
     difficulty = None
     attackstyle = None
     price = None
