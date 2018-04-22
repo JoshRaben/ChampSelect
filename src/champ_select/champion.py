@@ -12,7 +12,10 @@ class Champion(object):
     probability = 1
     difficulty = None
     attackstyle = None
+    price = None
+    types = []
     certainty_factor = None
+    playstyle = None
 
     def __init__(self, name):
         self.name = name
@@ -28,6 +31,9 @@ class Champion(object):
             champ = Champion(champ_data["name"])
             champ.lanes = champ_data["lane"]
             champ.aggression_level = champ_data["aggressionlevel"]
+            champ.playstyle = champ_data["playstyle"]
+            champ.price = float(champ_data["price"])
+            champ.types = champ_data["tags"]
             champ.difficulty = champ_data["info"]["difficulty"]
             champ.attackstyle = champ_data["attackstyle"]
             champions.append(champ)
