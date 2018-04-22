@@ -27,7 +27,7 @@ class Champion(object):
             champ = Champion(champ_data["name"])
             champ.lanes = champ_data["lane"]
             champ.aggression_level = champ_data["aggressionlevel"]
-            champ.difficulty = champ_data["difficulty"]
+            champ.difficulty = champ_data["info"]["difficulty"]
             champions.append(champ)
 
         return champions
