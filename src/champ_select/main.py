@@ -12,26 +12,32 @@ def main():
 
     champions = Champion.from_json(json_file)
 
-    print("ChampSelect. An AI that picks your League of Legends.")
-    print()
 
-    champions = apply_questions(champions, [lanes,
-                                            aggression_level,
-                                            blue_essence,
-                                            moba_experience,
-                                            mechanical_level,
-                                            player_type,
-                                            attack_style,
-                                            roaming,
-                                            split_or_tf,
-                                            objective_based])
-    print()
+    keepasking = "yes"
 
-    print("Your top ten champion(s):")
-    champions.sort(key=lambda x: x.certainty_factor, reverse=True)
-    for champ in champions:
-        print("\t" + champ.name + "\t" + "Certainty: " + str(champ.certainty_factor))
+    while keepasking == "yes":
+        print("ChampSelect. An AI that picks your League of Legends.")
+        print()
 
+        champions = apply_questions(champions, [lanes,
+                                                aggression_level,
+                                                blue_essence,
+                                                moba_experience,
+                                                mechanical_level,
+                                                player_type,
+                                                attack_style,
+                                                roaming,
+                                                split_or_tf,
+                                                objective_based])
+        print()
+
+        print("Your top ten champion(s):")
+        champions.sort(key=lambda x: x.certainty_factor, reverse=True)
+        for champ in champions[:10]:
+            print("\t" + champ.name + "\t" + "Certainty: " + str(champ.certainty_factor))
+
+        print("Do you want to select another Champion?")
+        keepasking = input("> ")
 
 def apply_questions(champions, questions):
     for question in questions:
@@ -177,7 +183,7 @@ def objective_based(champions):
     choice = prompt_user("Are you more objective oriented or do you concentrate on your own lane?",
                          ["Teamwork", "Solo"])
     probabilities = {}
-    
+
     if choice == "Teamwork":
         probabilities = {
             "ENGAGE": 0.75,
@@ -197,17 +203,17 @@ def objective_based(champions):
             "BURST": 0.0
         }
 
-        for champion in champions:
-            count = 0
-            for playstyle in champion.playstyle:
-                if playstyle in probabilities:
-                    champion.certainty_combined(probabilities[playstyle])
-                    count += 1
+    for champion in champions:
+        count = 0
+        for playstyle in champion.playstyle:
+            if playstyle in probabilities:
+                champion.certainty_combined(probabilities[playstyle])
+                count += 1
 
-            if count == 0:
-                champion.certainty_combined(-0.65)
+        if count == 0:
+            champion.certainty_combined(-0.65)
 
-        return champions
+    return champions
 
 
 def split_or_tf(champions):
@@ -236,17 +242,17 @@ def split_or_tf(champions):
             "BURST": 0.35
         }
 
-        for champion in champions:
-            count = 0
-            for playstyle in champion.playstyle:
-                if playstyle in probabilities:
-                    champion.certainty_combined(probabilities[playstyle])
-                    count += 1
+    for champion in champions:
+        count = 0
+        for playstyle in champion.playstyle:
+            if playstyle in probabilities:
+                champion.certainty_combined(probabilities[playstyle])
+                count += 1
 
-            if count == 0:
-                champion.certainty_combined(-0.65)
+        if count == 0:
+            champion.certainty_combined(-0.65)
 
-        return champions
+    return champions
 
 
 def roaming(champions):
@@ -271,17 +277,17 @@ def roaming(champions):
             "WAVECLEAR": 0.45
         }
 
-        for champion in champions:
-            count = 0
-            for playstyle in champion.playstyle:
-                if playstyle in probabilities:
-                    champion.certainty_combined(probabilities[playstyle])
-                    count += 1
+    for champion in champions:
+        count = 0
+        for playstyle in champion.playstyle:
+            if playstyle in probabilities:
+                champion.certainty_combined(probabilities[playstyle])
+                count += 1
 
-            if count == 0:
-                champion.certainty_combined(-0.65)
+        if count == 0:
+            champion.certainty_combined(-0.65)
 
-        return champions
+    return champions
 
 
 def attack_style(champions):
@@ -299,16 +305,16 @@ def attack_style(champions):
             "AD": 0.6
         }
 
-        for champion in champions:
-            champion.certainty_combined(probabilities[champion.attackstyle])
+    for champion in champions:
+        champion.certainty_combined(probabilities[champion.attackstyle])
 
-        return champions
+    return champions
 
 
 def moba_experience(champions):
     choice = prompt_user("How much experience do you have in the MOBA category of games?",
                          ["Very little (less than 100 hours)",
-                          "Some (100-300 hours",
+                          "Some (100-300 hours)",
                           "Moderate (300-1000 hours)",
                           "A lot (1000+ hours)"])
     probabilities = {}
@@ -365,8 +371,8 @@ def moba_experience(champions):
             10: 0.6,
         }
 
-        for champion in champions:
-            champion.certainty_combined(probabilities[champion.difficulty])
+    for champion in champions:
+        champion.certainty_combined(probabilities[champion.difficulty])
 
     return champions
 
@@ -418,8 +424,8 @@ def mechanical_level(champions):
             10: -0.7,
         }
 
-        for champion in champions:
-            champion.certainty_combined(probabilities[champion.difficulty])
+    for champion in champions:
+        champion.certainty_combined(probabilities[champion.difficulty])
 
     return champions
 
